@@ -1,5 +1,8 @@
 # atom-json-format package
 
-A short description of your package.
+Pretty formatter for JSON contents  
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## How to use:
+- Install the package in settings  
+- Open a json file (or paste a json content into an editor tab)  
+- Press <Ctrl+alt+j> to format the file
