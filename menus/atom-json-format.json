@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-json-format",
+          "submenu": [
+            {
+              "label": "Format",
+              "command": "atom-json-format:format"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

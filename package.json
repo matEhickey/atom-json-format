@@ -1,0 +1,21 @@
+{
+  "name": "atom-json-format",
+  "main": "./lib/atom-json-format",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "scripts": {
+    "test": "atom --test spec/*"
+  },
+  "repository": "https://github.com/atom/atom-json-format",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
